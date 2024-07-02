@@ -2,4 +2,4 @@
 we want to learn git and github
 
 
-##project notes 
+## project notes 
