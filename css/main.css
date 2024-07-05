@@ -4,3 +4,7 @@ body{
     align-self: auto;
     background-attachment: fixed;
 }
+div{
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
